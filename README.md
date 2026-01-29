@@ -5,7 +5,7 @@ It answers you on the channels you already use (WhatsApp, Telegram, Slack, Disco
 
 ![screenshot](https://raw.githubusercontent.com/mochiyaki/pigbot/master/pigbot.png)
 
-# Project details (part 1)
+# Pigbot project details (part 1)
 
 If you want a personal, single-user assistant that feels local, fast, and always-on, this is it.
 
