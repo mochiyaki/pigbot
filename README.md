@@ -278,7 +278,7 @@ A simple VS Code extension that manages Pigbot connection status via a status ba
 2. Compile: `npm run compile`
 3. Press F5 to launch the Extension Development Host
 
-## Acknowledgment
+## Acknowledgment and Codebases
 
 - core part codebase was forked from Clawdbot/Moltbot https://github.com/moltbot/moltbot (MIT License)
 - vscode extension plugin codebase was forked from https://github.com/mochiyaki/clawdbot (MIT License)
