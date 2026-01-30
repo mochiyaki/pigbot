@@ -247,7 +247,7 @@ Browser control (optional):
 }
 ```
 
-# Pigbot Extension (part 2)
+# Pigbot IDE extension (part 2)
 
 A simple VS Code extension that manages Pigbot connection status via a status bar item.
 
