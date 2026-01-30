@@ -2,6 +2,14 @@
 
 A simple VS Code extension that manages Pigbot connection status via a status bar item.
 
+## Requirements
+- Visual Studio Code version 1.74.0 or higher
+- [Pigbot](https://www.npmjs.com/package/@gguf/pigbot) installed; if not, install it via npm:
+
+```bash
+npm install -g @gguf/pigbot
+```
+
 ## Features
 
 - **Status Bar Item**: Shows connection status with three states:
