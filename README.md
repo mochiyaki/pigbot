@@ -7,7 +7,7 @@ It answers you on the channels you already use (WhatsApp, Telegram, Slack, Disco
 
 If you want a personal, single-user assistant that feels local, fast, and always-on, this is it.
 
-# Pigbot project details (part 1)
+# Pigbot CLI (part 1)
 
 ## Models (selection + auth)
 
@@ -247,7 +247,7 @@ Browser control (optional):
 }
 ```
 
-# Pigbot IDE extension (part 2)
+# Pigbot vscode extension (part 2)
 
 A simple VS Code extension that manages Pigbot connection status via a status bar item.
 
