@@ -39,7 +39,7 @@ pigbot gateway --port 18789 --verbose
 # Send a message
 pigbot message send --to +1234567890 --message "Hello from Pigbot"
 
-# Talk to the assistant (optionally deliver back to any connected channel, i.e., WhatsApp/Telegram/Slack/Discord etc.
+# Talk to the assistant (optionally deliver back to any connected channel: WhatsApp/Telegram/Discord..)
 pigbot agent --message "Ship checklist" --thinking high
 ```
 
