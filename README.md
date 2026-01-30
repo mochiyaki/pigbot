@@ -108,7 +108,7 @@ pnpm gateway:watch
 ## How it works
 
 ```
-WhatsApp/ Telegram/ Slack/ Discord/ Signal/ iMessage/ GoogleChat/ MicrosoftTeams...
+WhatsApp / Telegram / Slack / Discord / Signal / iMessage / GoogleChat / MicrosoftTeams...
                │
                ▼
 ┌───────────────────────────────┐
@@ -126,7 +126,7 @@ WhatsApp/ Telegram/ Slack/ Discord/ Signal/ iMessage/ GoogleChat/ MicrosoftTeams
 
 ## Chat commands
 
-Send these in WhatsApp/ Telegram/ Slack/ Google Chat/ Microsoft Teams/ WebChat (group commands are owner-only):
+Send these in WhatsApp / Telegram / Slack / Google Chat / Microsoft Teams / WebChat (group commands are owner-only):
 
 - `/status` — compact session status (model + tokens, cost when available)
 - `/new` or `/reset` — reset the session
